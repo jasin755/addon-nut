@@ -1,7 +1,7 @@
 ---
-name: Network UPS Tools
-version: dev
-slug: nut
+name: Network UPS Tools (Custom Fork)
+version: 2.8.1-custom-1
+slug: nut_custom
 description: Manage battery backup (UPS) devices
 url: https://github.com/hassio-addons/addon-nut
 startup: system
